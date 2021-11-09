@@ -5,6 +5,10 @@ export default class App extends Component {
     return (
       <div>
         <p>Devops IA2</p>
+
+        <hr />
+
+        <p>Making a change to the codebase to trigger Jenkins</p>
       </div>
     )
   }
