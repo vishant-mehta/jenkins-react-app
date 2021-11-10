@@ -9,6 +9,8 @@ export default class App extends Component {
         <hr />
 
         <p>Making a change to the codebase to trigger Jenkins</p>
+        <hr></hr>
+        <p>Another user making the change</p>
       </div>
     )
   }
